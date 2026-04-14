@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__slack-multi__slack_list_workspaces",
+      "mcp__slack-multi__slack_list_channels",
+      "mcp__slack-multi__slack_read_messages",
+      "mcp__slack-multi__slack_send_message",
+      "mcp__slack-multi__slack_reply_to_thread",
+      "mcp__slack-multi__slack_search",
+      "mcp__slack-multi__slack_list_users",
+      "mcp__slack-multi__slack_get_user_info",
+      "mcp__slack-multi__slack_send_dm"
+    ]
+  }
+}
